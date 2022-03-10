@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932420866166",
+    "project_id": "pickyeater-a2fdc",
+    "storage_bucket": "pickyeater-a2fdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932420866166:android:28e73ca6c0bdb5899fcf57",
+        "android_client_info": {
+          "package_name": "testapp.pickyeater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932420866166-bsc8n02kap0gmhs1uhq361bctekrpsuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIcmGJHbM9mKVqfKzhlc_v5PLEBZ3SEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932420866166-bsc8n02kap0gmhs1uhq361bctekrpsuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6160f71c-c3f5-4ecf-8cb5-281fbd7473da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25goYH43TxUFuuVuLlBdF8hLlMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tzkai\AndroidStudioProjects\CZ3002\pickyeater\assets\images" />
+      <recent name="C:\Users\tzkai\AndroidStudioProjects\CZ3002\pickyeater\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/pickyeater/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6160f71c-c3f5-4ecf-8cb5-281fbd7473da" name="Default Changelist" comment="" />
+      <created>1645958135994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645958135994</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="129" width="1535" height="1160" key="AVDManager" timestamp="1646892653842">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="190" y="129" width="1535" height="1160" key="AVDManager/0.0.2560.1400@0.0.2560.1400" timestamp="1646892653842" />
+    <state width="1675" height="384" key="GridCell.Tab.0.bottom" timestamp="1646036599739">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1675" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1440.-903.1440.2560@0.0.2560.1400" timestamp="1645969347835" />
+    <state width="1675" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1646036599739" />
+    <state width="1675" height="384" key="GridCell.Tab.0.center" timestamp="1646036599739">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1675" height="384" key="GridCell.Tab.0.center/0.0.2560.1400/-1440.-903.1440.2560@0.0.2560.1400" timestamp="1645969347835" />
+    <state width="1675" height="384" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1646036599739" />
+    <state width="1675" height="384" key="GridCell.Tab.0.left" timestamp="1646036599739">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1675" height="384" key="GridCell.Tab.0.left/0.0.2560.1400/-1440.-903.1440.2560@0.0.2560.1400" timestamp="1645969347834" />
+    <state width="1675" height="384" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1646036599739" />
+    <state width="1675" height="384" key="GridCell.Tab.0.right" timestamp="1646036599739">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1675" height="384" key="GridCell.Tab.0.right/0.0.2560.1400/-1440.-903.1440.2560@0.0.2560.1400" timestamp="1645969347835" />
+    <state width="1675" height="384" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1646036599739" />
+    <state x="1735" y="366" width="672" height="678" key="search.everywhere.popup" timestamp="1646032982088">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1735" y="366" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1646032982088" />
+  </component>
+</project>
